@@ -14,7 +14,7 @@ setup(
     author_email='your email address',
     license='Apache License v2',
     package_data={'': ['*.*']},
-    url='https://github.com/HOLALee/rqalpha-mod-tushare',
+    url='https://github.com/HOLALee/rqalpha-tushare',
     install_requires=[str(ir.req) for ir in parse_requirements("requirements.txt", session=False)],
     zip_safe=False,
     classifiers=[
