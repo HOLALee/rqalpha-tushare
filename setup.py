@@ -8,10 +8,10 @@ from setuptools import (
 setup(
     name='rqalpha-mod-tushare',     #mod名
     version="0.1.0",
-    description='RQAlpha Mod to say hello',
+    description='RQAlpha Tushare Mod',
     packages=find_packages(exclude=[]),
-    author='your name',
-    author_email='your email address',
+    author='liyuzhong',
+    author_email='744234398@qq.com',
     license='Apache License v2',
     package_data={'': ['*.*']},
     url='https://github.com/HOLALee/rqalpha-tushare',
@@ -21,7 +21,7 @@ setup(
         'Programming Language :: Python',
         'Operating System :: Microsoft :: Windows',
         'Operating System :: Unix',
-        'Programming Language :: Python :: 3.5',
-        'Programming Language :: Python :: 3.6',
+        'Programming Language :: Python :: 2.7',
+        'Programming Language :: Python :: 2.7',
     ],
 )

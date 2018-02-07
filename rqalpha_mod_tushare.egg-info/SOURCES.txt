@@ -1,0 +1,6 @@
+rqalpha_mod_tushare.egg-info/PKG-INFO
+rqalpha_mod_tushare.egg-info/SOURCES.txt
+rqalpha_mod_tushare.egg-info/dependency_links.txt
+rqalpha_mod_tushare.egg-info/not-zip-safe
+rqalpha_mod_tushare.egg-info/requires.txt
+rqalpha_mod_tushare.egg-info/top_level.txt
